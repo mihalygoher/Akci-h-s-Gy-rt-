@@ -1,0 +1,5 @@
+{
+  "name": "Action Hero Maker",
+  "description": "Egy applikáció, amely a felhasználó fotója és leírása alapján generál egy egyedi akciófigura dobozos képet a Gemini API segítségével.",
+  "requestFramePermissions": []
+}
